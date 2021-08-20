@@ -1,4 +1,4 @@
-                                    A devoloper in progress from Portugal <h1> 
+                                    A devoloper in progress from Portugal 
 
 - 👋 Hi, I’m @toastfreak
 - 👀 I’m interested in raspberry and arduino projects.
