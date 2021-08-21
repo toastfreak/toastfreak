@@ -28,6 +28,6 @@
 <img alt="CSS" src="https://raw.githubusercontent.com/Magueija/Magueija/main/images/badges/languages%20and%20frameworks/full/css3.svg">
   
 <p align="center">
- <a img src="https://komarev.com/ghpvc/?username=toastfreak&label=Profile%20views&color=0e75b6&style=flat" alt="toastfreak"/></a>
+ <img src="https://komarev.com/ghpvc/?username=toastfreak&label=Profile%20views&color=0e75b6&style=flat" alt="toastfreak"/>
  <a href="https://github.com/toastfreak/" target="_blank"><img src="https://img.shields.io/github/followers/toastfreak?style=social" alt="visitor badge"/></a>
 </p>
