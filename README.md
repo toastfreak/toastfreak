@@ -3,6 +3,9 @@
 ## I'm a junior front-end developer
 
 <img align='right' src='https://media0.giphy.com/media/kbRb4eyCNC0aMz5x68/200w.webp?cid=ecf05e47b5m1lqngimcyc2gkijufp8zaqs30mi85f9l3wx12&rid=200w.webp&ct=g' width='430"'>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=oavelar42&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true" alt="oavelar42" width="310" height="310"/>
+
 <p>
   <br><strong>🙌 I'm currently looking for:</strong> Learn as much as I can
   <br><strong>🔭 I’m currently working on:</strong> Junior Front-end Developer
