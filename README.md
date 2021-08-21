@@ -1,14 +1,13 @@
 # Hey buddy, Gabriel's here!
-## I'm a junior front-end developer
-***
 
+## I'm a junior front-end developer
+
+<img align='right' src='https://media0.giphy.com/media/kbRb4eyCNC0aMz5x68/200w.webp?cid=ecf05e47b5m1lqngimcyc2gkijufp8zaqs30mi85f9l3wx12&rid=200w.webp&ct=g' width='430"'>
 <p>
   <br><strong>🙌 I'm currently looking for:</strong> Learn as much as I can
   <br><strong>🔭 I’m currently working on:</strong> Junior Front-end Developer
   <br><strong>🌱 I’m currently learning:</strong> Python & C
 </p>
-
-<img align='right' src='https://media0.giphy.com/media/kbRb4eyCNC0aMz5x68/200w.webp?cid=ecf05e47b5m1lqngimcyc2gkijufp8zaqs30mi85f9l3wx12&rid=200w.webp&ct=g' width='430"'>
 
 <!--https://media0.giphy.com/media/8fRwPZtbWkkX6/giphy.gif?cid=ecf05e47l0osxgvp7r8pseptjgi61k1jgt7foxinfxj58mws&rid=giphy.gif&ct=g -->
 
