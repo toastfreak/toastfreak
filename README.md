@@ -30,6 +30,8 @@
 <img alt="WordPress" src="https://camo.githubusercontent.com/72fa38beb2eb666c0ebb8a03b78e62ad62d4210a04c956c76210c15323fdd1dc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d576f726450726573732d2532333738374342353f7374796c653d666c61742d737175617265266c6f676f3d776f72647072657373266c6f676f436f6c6f723d464646464646266c6162656c436f6c6f723d25323334343431343026636f6c6f723d253233303037343943">
 <img alt="CSS" src="https://raw.githubusercontent.com/Magueija/Magueija/main/images/badges/languages%20and%20frameworks/full/css3.svg">
   
+ ***
+  
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=toastfreak&label=Profile%20views&color=0e75b6&style=flat" alt="toastfreak"/>
  <a href="https://github.com/toastfreak/" target="_blank"><img src="https://img.shields.io/github/followers/toastfreak?style=social" alt="visitor badge"/></a>
