@@ -18,8 +18,6 @@
 <a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-Focal%20Fossa-E95420?style=flat-square&logo=Ubuntu&logoColor=E95420"></a> <a href="https://www.microsoft.com/windows/" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/Windows-10-00adef?style=flat-square&logo=windows&logoColor=00adef"></a>
 </p>
 
-***
-
 #### Languages and Tools ⚔️
 <p>
 <img alt="Bash" height="30em" src="https://raw.githubusercontent.com/Magueija/Magueija/main/images/badges/languages%20and%20frameworks/full/bash.svg" />
