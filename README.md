@@ -1,4 +1,4 @@
-# Hey buddy, Gabriel's here!
+# Hello World, I'm Gabriel!
 
 ## I'm a junior front-end developer
 
