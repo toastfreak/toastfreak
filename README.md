@@ -5,6 +5,7 @@
 <img align='right' src='https://media0.giphy.com/media/kbRb4eyCNC0aMz5x68/200w.webp?cid=ecf05e47b5m1lqngimcyc2gkijufp8zaqs30mi85f9l3wx12&rid=200w.webp&ct=g' width='430"'>
 
 <p>
+  <br> I'm still working on some projects but soon they will be available
   <br><strong>🙌 I'm currently looking for:</strong> Learn as much as I can
   <br><strong>🔭 I’m currently working on:</strong> Junior Front-end Developer
   <br><strong>🌱 I’m currently learning:</strong> Python & C
