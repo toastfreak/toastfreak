@@ -29,4 +29,5 @@
   
 <p align="center">
  <a href="https://github.com/toastfreak/" target="_blank"><img src="https://img.shields.io/github/followers/toastfreak?style=social" alt="visitor badge"/></a>
+ <img align="left" src="https://komarev.com/ghpvc/?username=toastfreak&label=Profile%20views&color=0e75b6&style=flat" alt="toastfreak"/>
 </p>
