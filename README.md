@@ -17,7 +17,7 @@
 </p>
 
 #### Languages and Tools ⚔️
-<p align="center">
+<p>
 <img alt="Bash" height="30em" src="https://raw.githubusercontent.com/Magueija/Magueija/main/images/badges/languages%20and%20frameworks/full/bash.svg" />
 <img alt="C" src="https://img.shields.io/badge/-Language-%234d4d4d?style=flat-square&logo=c&logoColor=ffffff&labelColor=%234d4d4d&color=%236e6e6e"> 
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-%23e34c26?style=flat-square&logo=css3&logoColor=ffffff&labelColor=%23e34c26&color=%23f06529"> 
