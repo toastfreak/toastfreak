@@ -7,8 +7,8 @@
   <br><strong>🌱 I’m currently learning:</strong> Python & C
 </p>
 
-<img align='right' src='https://media.giphy.com/media/kudIERso2pFiE/giphy.gif' width='370"'>
-
+<img align='right' src='https://media0.giphy.com/media/8fRwPZtbWkkX6/giphy.gif?cid=ecf05e47l0osxgvp7r8pseptjgi61k1jgt7foxinfxj58mws&rid=giphy.gif&ct=g' width='370"'>
+https://media.giphy.com/media/kudIERso2pFiE/giphy.gif
 ### Operational Systems 
 <p> 
 <a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-Focal%20Fossa-E95420?style=flat-square&logo=Ubuntu&logoColor=E95420"></a> <a href="https://www.microsoft.com/windows/" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/Windows-10-00adef?style=flat-square&logo=windows&logoColor=00adef"></a> 
