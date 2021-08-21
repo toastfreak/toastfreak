@@ -25,5 +25,4 @@
   
  <p align="center">
  <a href="https://github.com/toastfreak/" target="_blank"><img src="https://img.shields.io/github/followers/toastfreak?style=social" alt="visitor badge"/></a>
- <a href="https://github.com/toastfreak/" target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=toastfreak.toastfreak" alt="visitor badge"/></a>
 </p>
