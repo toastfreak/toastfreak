@@ -7,7 +7,7 @@
   <br><strong>🌱 I’m currently learning:</strong> Python & C
 </p>
 
-<img align='right' src='https://media0.giphy.com/media/8fRwPZtbWkkX6/giphy.gif?cid=ecf05e47l0osxgvp7r8pseptjgi61k1jgt7foxinfxj58mws&rid=giphy.gif&ct=g' width='400"'>
+<img align='right' src='https://media0.giphy.com/media/8fRwPZtbWkkX6/giphy.gif?cid=ecf05e47l0osxgvp7r8pseptjgi61k1jgt7foxinfxj58mws&rid=giphy.gif&ct=g' width='430"'>
 
 ### Operational Systems 
 <p> 
