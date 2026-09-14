@@ -14,7 +14,7 @@
 
 ### Operational Systems 
 <p> 
-<a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-Focal%20Fossa-E95420?style=flat-square&logo=Ubuntu&logoColor=E95420"></a> <a href="https://www.microsoft.com/windows/" target="_blank"><img alt="Windows" src="https://img.shields.io/badge/Windows-10-00adef?style=flat-square&logo=windows&logoColor=00adef"></a>
+<a href="https://ubuntu.com/" target="_blank"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-Focal%20Fossa-E95420?style=flat-square&logo=Ubuntu&logoColor=E95420"></a>
 </p>
 
 ####Tools ⚔️
